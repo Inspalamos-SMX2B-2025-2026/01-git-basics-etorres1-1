@@ -1,0 +1,154 @@
+   23  git init
+   31  git
+   32  git init
+   33  /home/erikt/.git/
+   34  cd /home/erikt/.git/
+   36  git status
+   48* git push
+   49  git add README.md 
+   50  git acommit -m "Correcio"
+   51  git commit -m "Correcio"
+   52  git push
+   53  git status
+   54  git add README.md 
+   56  git add README.md 
+   57  git commit -m "Correcio"
+   58  git push
+   59  git status
+   60  echo "# etorres1-1.github.io" >> README.md
+   61  git init
+   63  git remote add origin git@github.com:etorres1-1/etorres1-1.github.io.git
+   64  git branch -M main
+   65  git push -u origin main
+   72  git remote add origin git@github.com:etorres1-1/etorres1-1.github.io.git
+   73  git remote add git@github.com:etorres1-1/etorres1-1.github.io.git
+   74  echo "# etorres1-1.github.io"
+   75  echo "# etorres1-1.github.io" >> README.md
+   80  git init
+   81  git add README.md
+   83  git branch -M main
+   84  git remote add origin git@github.com:etorres1-1/etorres1-1.github.io.gith
+   85  git remote add origin git@github.com:etorres1-1/etorres1-1.github.io.git
+   89  echo "# etorres1-1.github.io" >> README.md
+   91  sudo mkdir etorres1-1.github.io
+   92  cd etorres1-1.github.io/
+   93  echo "# etorres1-1.github.io" >> README.md
+   94  sudo echo "# etorres1-1.github.io" >> README.md
+   96  git clone git@github:etorres1-1/etorres1-1.github.io
+   97  sudo git clone git@github:etorres1-1/etorres1-1.github.io
+   98  sudo git clone git@github.com:etorres1-1/etorres1-1.github.io.git
+  100  sudo git clone git@github.com:etorres1-1/etorres1-1.github.io.git
+  103  sudo git clone git@github.com:etorres1-1/etorres1-1.github.io.git
+  104  git clone git@github.com:etorres1-1/etorres1-1.github.io.git
+  105  cd etorres1-1.github.io/
+  107  sudo nano /github.io
+  109  sudo nano /github.io
+  111  git add index.html
+  112  git status
+  113* git commit -m "Primer index"p
+  114  git push
+  115  git pull --all
+  117  cd /home/erikt/etorres1-1.github.io/
+  118  git branch
+  119  git pull --all
+  123  git pull --all
+  124  git branch
+  125  git pull --all
+  126  git status
+  127  git push
+  128  git pull --all
+  129  git restore README.md
+  130  git pull --all
+  131  git restore README.mdgit switch main
+  132  git swtich main
+  133  git switch main
+  134  git branch -D web
+  135  git pull --all
+  136  git switch -c web
+  137  git pull origin web
+  138  git switch -c web
+  139  git branch -D web
+  140  git switch main
+  141  git pull --all
+  142  git switch main
+  143  git pull --all
+  144  git switch main
+  145  git pull --all
+  146  git status
+  147  git pull
+  148  git stash
+  149  git pull
+  150  git stash pop
+  151  git status
+  152  git diff
+  153  git clone git@github.com:Inspalamos-SMX2B-2025-2026/01-git-basics-etorres1-1.git
+  164  cd /home/erikt/etorres1-1.github.io/
+  166  git pull
+  169  cd /home/erikt/etorres1-1.github.io/
+  172  git clone git@github.com:Inspalamos-SMX2B-2025-2026/01-git-basics-etorres1-1.git
+  173  git pull
+  175  git pull
+  176  git push
+  178  cd 01-git-basics-etorres1-1/
+  180  git clone git@github.com:Inspalamos-SMX2B-2025-2026/01-git-basics-etorres1-1.git
+  182  sudo rm 01-git-basics-etorres1-1/
+  183  rm -rf 01-git-basics-etorres1-1/
+  184  git status
+  189  git commit -m Nou exe1
+  190  git commit -m "Nou exe1"
+  191  git push
+  194  git commit -m "Nou exe2"
+  195  git push
+  199  git commit -m "Using Bootstrap"
+  200  git push
+  201  git chekout main
+  202  git checkout main
+  203  git checkout -b web
+  204  git branch
+  205  git add exe1.html exe2.html 
+  206  git branch
+  207  git status
+  208  git checkout main 
+  209  git branch
+  210  git add README.md 
+  211  git checkout main 
+  213  git checkout main 
+  214  git checkout web
+  215  git branch
+  216  git checkout web
+  217  git checkout
+  218  git log --oneline -- exe1.html
+  222  git checkout web
+  223  git checkout main
+  224  git checkout web
+  225  git add exe1.html exe2.html 
+  226  git checkout web
+  227  git checkout main
+  228  git add README.md 
+  229  git checkout main
+  230  git rm exe1.html  exe2.html 
+  231  git checkout main
+  232  git rm -f exe1.html  exe2.html 
+  233  git checkout main
+  234  git checkout web
+  238  git checkout web
+  239  git add exe1.html exe2.html 
+  240  git checkout web
+  241  git checkout main
+  242  git rm exe1.html exe2.html 
+  244  git rm -h
+  245  git rm --cached exe1.html exe2.html 
+  246  git checkout main
+  247  git checkout web
+  249  git checkout web
+  250  git add exe1.html exe2.html 
+  251  git checkout web
+  252  git checkout main
+  253  git rm --cached exe1.html exe2.html 
+  254* git checkout mai
+  255  git commit -m "Confirmar borrar"
+  256  git push
+  257  sudo nano history | grepgit > git.log
+  258  sudo nano history | grep git > git.log
+  259  sudo history | grep git > git.log
+  260  git checkout main
